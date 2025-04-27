@@ -78,7 +78,7 @@ require (
 	github.com/prometheus/common v0.37.0 // indirect
 	github.com/prometheus/procfs v0.8.0 // indirect
 	github.com/prometheus/statsd_exporter v0.21.0 // indirect
-	github.com/shurcooL/githubv4 v0.0.0-20231126234147-1cffa1f02456 // indirect
+	github.com/shurcooL/githubv4 48295856cce7 // indirect
 	github.com/shurcooL/graphql v0.0.0-20181231061246-d48a9a75455f // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/tektoncd/pipeline v0.45.0 // indirect
